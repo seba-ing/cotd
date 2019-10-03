@@ -8,6 +8,11 @@ body, .jqm-demos  {
 	font-size: 1.05em;
 }
 
+.ui-header{
+  background-color:blue!important;
+  color: white!important;
+}
+
 /* Header */
 .jqm-header {
 	background: blue;
