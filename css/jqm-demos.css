@@ -10,7 +10,7 @@ body, .jqm-demos  {
 
 /* Header */
 .jqm-header {
-	background: #fff;
+	background: blue;
 	border-top: 3px solid #6ABA2F;
 	border-bottom: 1px solid #e0e0e0;
 	color: #777;
